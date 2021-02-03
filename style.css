@@ -196,6 +196,10 @@ header {
     color: var(--red);
 }
 
+#data-table td img {
+    cursor: pointer;
+}
+
 /* FOOTER =============================== */
 footer {
     text-align: center;
